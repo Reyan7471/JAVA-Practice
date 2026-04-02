@@ -37,6 +37,15 @@ Access modifiers
 Static and Final keywords
 Enum usage
 
+Day 3
+ Overview
+
+This repository contains Java programs created as part of Day 3 practice, focusing on core programming concepts such as:
+
+Stack vs Heap Memory
+Assignment Operators
+Type Casting (Implicit & Explicit)
+
 📂 Example Programs:
 
 Employee (JavaBean)
